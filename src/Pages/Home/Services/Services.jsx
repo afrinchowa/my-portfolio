@@ -11,7 +11,7 @@ const Services = () => {
         My <span className="text-[#49d9d3]">Services</span>
       </h1>
       <div className="grid grid-cols-3 gap-4 ml-5">
-        <div className="card w-96 bg-[#0a1d29]  text-white shadow-2xl shadow-indigo-800">
+        <div className="card w-96 bg-[#0a1d29]  text-white shadow-2xl shadow-teal-400">
           <div className="card-body items-center  ">
             <p className="text-3xl text-left">
             <SiFrontendmentor />
@@ -34,7 +34,7 @@ const Services = () => {
             </div>
           </div>
         </div>
-        <div className="card w-96 bg-[#0a1d29]  text-white shadow-2xl shadow-indigo-800">
+        <div className="card w-96 bg-[#0a1d29]  text-white shadow-2xl shadow-teal-400">
           <div className="card-body items-center  ">
             <p className="text-3xl text-left">
             <SiBackendless />
@@ -53,7 +53,7 @@ const Services = () => {
             </div>
           </div>
         </div>
-        <div className="card w-96 bg-[#0a1d29]  text-white shadow-2xl shadow-indigo-800">
+        <div className="card w-96 bg-[#0a1d29]  text-white shadow-2xl shadow-teal-400">
           <div className="card-body items-center  ">
             <p className="text-3xl text-left">
             <FaDatabase />
@@ -71,7 +71,7 @@ const Services = () => {
             </div>
           </div>
         </div>
-        <div className="card w-96 bg-[#0a1d29]  text-white shadow-2xl shadow-indigo-800">
+        <div className="card w-96 bg-[#0a1d29]  text-white shadow-2xl shadow-teal-400">
           <div className="card-body items-center  ">
             <p className="text-3xl text-left">
             <FaThermometerFull />
@@ -89,7 +89,7 @@ const Services = () => {
             </div>
           </div>
         </div>
-        <div className="card w-96 bg-[#0a1d29]  text-white shadow-2xl shadow-indigo-800">
+        <div className="card w-96 bg-[#0a1d29]  text-white shadow-2xl shadow-teal-400">
           <div className="card-body items-center  ">
             <p className="text-3xl text-left">
             <MdDashboardCustomize />
@@ -109,7 +109,7 @@ const Services = () => {
             </div>
           </div>
         </div>
-        <div className="card w-96 bg-[#0a1d29]  text-white shadow-2xl shadow-indigo-800">
+        <div className="card w-96 bg-[#0a1d29]  text-white shadow-2xl shadow-teal-400">
           <div className="card-body items-center  ">
             <p className="text-3xl text-left">
             <MdContactSupport />
